@@ -1,0 +1,7 @@
+({
+    'cgpa': [9.2, 8.5, 9.0, 7.5, 8.2, 9.1, 7.8, 9.3, 8.4, 8.6],
+    'interactiveness': ['yes', 'no', 'no', 'no', 'yes', 'yes', 'yes', 'yes', 'no', 'yes'],
+    'practical_knowledge': ['verygood', 'good', 'average', 'average', 'good', 'good', 'good', 'verygood', 'good', 'average'],
+    'communication': ['good', 'moderate', 'poor', 'good', 'moderate', 'moderate', 'poor', 'good', 'good', 'good'],
+    'job_offer': ['yes', 'yes', 'no', 'no', 'yes', 'yes', 'no', 'yes', 'yes', 'yes']
+})
